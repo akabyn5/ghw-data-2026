@@ -1,0 +1,5 @@
+Python
+GitHub Copilot
+Git
+GitHub
+Visual Studio Code
