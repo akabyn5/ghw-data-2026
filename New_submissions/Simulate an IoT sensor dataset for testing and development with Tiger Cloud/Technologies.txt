@@ -1,1 +1,5 @@
-https://github.com/akabyn5/skills-getting-started-with-github-copilot.git
+Tiger Cloud  
+TimescaleDB  
+PostgreSQL  
+SQL  
+Hypertables
