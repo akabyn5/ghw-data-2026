@@ -1,1 +1,13 @@
-https://github.com/akabyn5/skills-getting-started-with-github-copilot.git
+Python 3
+Twelve Data Python Client
+Twelve Data WebSocket API
+WebSocket
+psycopg2
+PostgreSQL
+TimescaleDB
+Tiger Cloud
+Tiger CLI
+Hypertables
+Continuous Aggregates
+OHLCV aggregation
+Batch ingestion

@@ -1,1 +1,8 @@
-https://github.com/akabyn5/skills-getting-started-with-github-copilot.git
+Space Dogs GHW Data 2026 repository:
+https://github.com/akabyn5/ghw-data-2026
+
+Twelve Data Python client:
+https://github.com/twelvedata/twelvedata-python
+
+Tiger Data financial data guide:
+https://www.tigerdata.com/docs/build/examples/ingest-real-time-financial-data
