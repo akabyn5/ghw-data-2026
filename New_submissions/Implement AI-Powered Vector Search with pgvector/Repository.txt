@@ -1,1 +1,11 @@
-https://github.com/akabyn5/skills-getting-started-with-github-copilot.git
+Space Dogs GHW Data 2026:
+https://github.com/akabyn5/ghw-data-2026
+
+MLH Challenge:
+https://www.mlh.com/events/global-hack-week-data/challenges/01a08c58-f207-e361-8650-a8213c54a901
+
+Tiger Data pgvector:
+https://www.tigerdata.com/learn/postgresql-extensions-pgvector
+
+Tiger Data vector search:
+https://www.tigerdata.com/blog/deploying-timescaledb-vector-search-cloudnativepg-kubernetes-operator
